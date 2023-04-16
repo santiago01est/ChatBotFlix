@@ -1,6 +1,6 @@
 import requests
 # Configurar las credenciales de la API de TMDb
-API_KEY = "764d08acf76677de0c5358a603dcc94f" # Reemplaza con tu propia API Key de TMDb
+API_KEY = "764d08acf76677de0c5358a603dcc9g5" # Reemplaza con tu propia API Key de TMDb
 BASE_URL = "https://api.themoviedb.org/3"
 
 def buscarPelicula(name):
